@@ -19,7 +19,6 @@
 - 🛡️ Experienced with **JWT authentication, Spring Security, REST API design** and **OpenAPI/Swagger** docs
 - 🎮 Also built a 2D platformer game with **Unity (C#)** as a team project
 - 🌱 Currently improving: <!-- sửa dòng này: ví dụ Docker, CI/CD, system design... --> Docker, CI/CD and system design
-- 💼 Open to **Intern / Fresher** opportunities <!-- đổi thành Junior nếu bạn đã đi làm -->
 
 ---
 
